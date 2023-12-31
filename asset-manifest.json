@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/himanshu-portfolio/static/css/main.db76a3b0.chunk.css",
+    "main.js": "/himanshu-portfolio/static/js/main.27c516c5.chunk.js",
+    "main.js.map": "/himanshu-portfolio/static/js/main.27c516c5.chunk.js.map",
+    "runtime-main.js": "/himanshu-portfolio/static/js/runtime-main.3c140137.js",
+    "runtime-main.js.map": "/himanshu-portfolio/static/js/runtime-main.3c140137.js.map",
+    "static/css/2.d64471e2.chunk.css": "/himanshu-portfolio/static/css/2.d64471e2.chunk.css",
+    "static/js/2.177ae940.chunk.js": "/himanshu-portfolio/static/js/2.177ae940.chunk.js",
+    "static/js/2.177ae940.chunk.js.map": "/himanshu-portfolio/static/js/2.177ae940.chunk.js.map",
+    "index.html": "/himanshu-portfolio/index.html",
+    "precache-manifest.a2c537a55af6a85b240e608ace681f59.js": "/himanshu-portfolio/precache-manifest.a2c537a55af6a85b240e608ace681f59.js",
+    "service-worker.js": "/himanshu-portfolio/service-worker.js",
+    "static/css/2.d64471e2.chunk.css.map": "/himanshu-portfolio/static/css/2.d64471e2.chunk.css.map",
+    "static/css/main.db76a3b0.chunk.css.map": "/himanshu-portfolio/static/css/main.db76a3b0.chunk.css.map",
+    "static/js/2.177ae940.chunk.js.LICENSE.txt": "/himanshu-portfolio/static/js/2.177ae940.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c140137.js",
+    "static/css/2.d64471e2.chunk.css",
+    "static/js/2.177ae940.chunk.js",
+    "static/css/main.db76a3b0.chunk.css",
+    "static/js/main.27c516c5.chunk.js"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+    "basic_info": {
+      "name": "Himanshu Shukla",
+      "titles": [ "Deep Learning", "Data Analysis", "Software development", "Mobile App Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/himanshushukla12",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedIn",
+          "url": "https://www.linkedin.com/in/himanshu-shukla-94505615a/",
+          "class": "devicon-linkedin-plain"
+        }
+      ],
+      "image": "profile.jpeg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "python",
+          "class": "devicon-python-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "java",
+          "class": "devicon-java-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "pyTorch",
+          "class": "devicon-pytorch-original colored",
+          "level": "80"
+        },
+        {
+          "name": "Android",
+          "class": "devicon-android-plain colored",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "firebase",
+          "class": "devicon-firebase-plain colored",
+          "level": "75"
+        },
+        {
+          "name": "gitHub",
+          "class": "devicon-git-plain colored",
+          "level": "85"
+        },
+        {
+          "name": "ubuntu",
+          "class": "devicon-linux-plain colored",
+          "level": "65"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }

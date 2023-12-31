@@ -1,0 +1,135 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Himanshu Shukla a passionate computer science enthusiast, looking for a role in AI/SDE to kick-start my career. Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "gmail Automation",
+        "startDate": "2023",
+        "description": "This Node.js application automates responses to unread emails in a Gmail account. It's specifically designed to handle emails while you're away, responding only to those without previous replies.",
+        "images": [
+          "images/portfolio/autoreplygmail/p1.png",
+          "images/portfolio/autoreplygmail/p2.png"
+        ],
+        "url": "https://github.com/himanshushukla12/gmailAutomation.git",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain colored",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-nodejs-plain-wordmark colored",
+            "name": "nodeJS"
+          },
+          {
+            "class": "devicon-google-plain-wordmark colored",
+            "name": "gmailAPIs"
+          }
+        ]
+      },
+      {
+        "title": "Drone-Based Disaster Detection Model",
+        "startDate": "2023",
+        "description": "– Developed a drone-based model for detecting natural disasters, using screenshots from online videos to create a unique dataset. Employed DC-GAN for Image Inpainting, enhancing image quality for better analysis.    \n– Analyzed and classified disaster images into five categories: Earthquake, Flood, Hurricane,Landslides, and Wildfire using a CNN model in PyTorch.\n \n – Focused on improving model accuracy and efficiency for practical application in disaster management.",
+        "images": [
+          "images/portfolio/droneDeepLearning/p1.png",
+          "images/portfolio/droneDeepLearning/p2.png"
+        ],
+        "url": "https://github.com/himanshushukla12/image-inpainting-DCGAN-PyTorch.git",
+        "technologies": [
+          {
+            "class": "devicon-python-plain colored",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-pytorch-plain-wordmark colored",
+            "name": "PyTorch"
+          },
+          {
+            "class": "devicon-gitter-plain colored",
+            "name": "CNN"
+          }
+        ]
+      },
+      {
+        "title": "Android Chat Application",
+        "startDate": "2022",
+        "description": "During my internship, I worked on the development of an Android Chat Application. The primary focus was on creating a robust and feature-rich application using Java and Firebase with Android Studio as the integrated development environment (IDE). This project provided valuable experience and learning opportunities.",
+        "images": [
+          "images/portfolio/adventure/p1.png",
+          "images/portfolio/adventure/p2.png"
+        ],
+        "url": "https://github.com/himanshushukla12/BITSProject.git",
+        "technologies": [
+          {
+            "class": "devicon-android-plain colored",
+            "name": "android"
+          },
+          {
+            "class": "devicon-java-plain colored",
+            "name": "java"
+          },
+          {
+            "class": "devicon-firebase-plain colored",
+            "name": "firebase"
+          }
+        ]
+      },
+      {
+        "title": "code_breaking_differential_attacks",
+        "startDate": "2023",
+        "description": "Developed and build a project on python where me and my team worked on breaking the wll known encryption algorithms like play-fair, vigenere, RSA",
+        "images": [
+          "images/portfolio/differentialattacks/p1.png"
+        ],
+        "url": "https://github.com/himanshushukla12/code_breaking_differential_attacks.git",
+        "technologies": [
+          {
+            "class": "devicon-python-plain colored",
+            "name": "Python"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": " DUCAT Institute, Noida",
+        "title": "Android Developer Intern",
+        "years": "06/2022 – 08/2022",
+        "mainTech": [
+          "Android Developer Intern"
+        ],
+        "technologies": [
+          "REST API",
+          "Java",
+          "xML",
+          "firebase",
+          "FCM",
+          "NoSQL Real-Time Database",
+          "Stress Testing",
+          "Cloud Fire-store",
+          "API Integration"
+        ]
+      },
+      {
+        "company": "BITS Pilani",
+        "title": "Teaching Assistant",
+        "years": "08/2022 - 12/2023",
+        "mainTech": [
+          "Position of responsibility"
+        ],
+        "technologies": [
+          "Linux",
+          "C",
+          "Algorithms"
+        ]
+      }
+    ]
+  }
