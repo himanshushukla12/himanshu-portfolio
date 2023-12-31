@@ -1,41 +1,41 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "Himanshu Shukla",
+      "titles": [ "Deep Learning", "Data Analysis", "Software development", "Mobile App Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/himanshushukla12",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedIn",
+          "url": "https://www.linkedin.com/in/himanshu-shukla-94505615a/",
+          "class": "devicon-linkedin-plain"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "profile.jpeg"
     },
     "skills": {
       "icons": [
         {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
+          "name": "python",
+          "class": "devicon-python-plain colored",
           "level": "95"
         },
         {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
+          "name": "java",
+          "class": "devicon-java-plain colored",
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
+          "name": "pyTorch",
+          "class": "devicon-pytorch-original colored",
           "level": "80"
         },
         {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
+          "name": "Android",
+          "class": "devicon-android-plain colored",
           "level": "90"
         },
         {
@@ -44,18 +44,18 @@
           "level": "70"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
+          "name": "firebase",
+          "class": "devicon-firebase-plain colored",
           "level": "75"
         },
         {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
+          "name": "gitHub",
+          "class": "devicon-git-plain colored",
           "level": "85"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
+          "name": "ubuntu",
+          "class": "devicon-linux-plain colored",
           "level": "65"
         },
         {

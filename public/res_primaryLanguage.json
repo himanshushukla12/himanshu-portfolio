@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Himanshu Shukla a passionate computer science enthusiast, looking for a role in AI/SDE to kick-start my career. Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,107 +11,124 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "gmail Automation",
+        "startDate": "2023",
+        "description": "This Node.js application automates responses to unread emails in a Gmail account. It's specifically designed to handle emails while you're away, responding only to those without previous replies.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/autoreplygmail/p1.png",
+          "images/portfolio/autoreplygmail/p2.png"
         ],
-        "url": "",
+        "url": "https://github.com/himanshushukla12/gmailAutomation.git",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
+            "class": "devicon-javascript-plain colored",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-nodejs-plain-wordmark colored",
+            "name": "nodeJS"
+          },
+          {
+            "class": "devicon-google-plain-wordmark colored",
+            "name": "gmailAPIs"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Drone-Based Disaster Detection Model",
+        "startDate": "2023",
+        "description": "– Developed a drone-based model for detecting natural disasters, using screenshots from online videos to create a unique dataset. Employed DC-GAN for Image Inpainting, enhancing image quality for better analysis.    \n– Analyzed and classified disaster images into five categories: Earthquake, Flood, Hurricane,Landslides, and Wildfire using a CNN model in PyTorch.\n \n – Focused on improving model accuracy and efficiency for practical application in disaster management.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/droneDeepLearning/p1.png",
+          "images/portfolio/droneDeepLearning/p2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/himanshushukla12/image-inpainting-DCGAN-PyTorch.git",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-python-plain colored",
+            "name": "Python"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-pytorch-plain-wordmark colored",
+            "name": "PyTorch"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-gitter-plain colored",
+            "name": "CNN"
+          }
+        ]
+      },
+      {
+        "title": "Android Chat Application",
+        "startDate": "2022",
+        "description": "During my internship, I worked on the development of an Android Chat Application. The primary focus was on creating a robust and feature-rich application using Java and Firebase with Android Studio as the integrated development environment (IDE). This project provided valuable experience and learning opportunities.",
+        "images": [
+          "images/portfolio/adventure/p1.png",
+          "images/portfolio/adventure/p2.png"
+        ],
+        "url": "https://github.com/himanshushukla12/BITSProject.git",
+        "technologies": [
+          {
+            "class": "devicon-android-plain colored",
+            "name": "android"
+          },
+          {
+            "class": "devicon-java-plain colored",
+            "name": "java"
+          },
+          {
+            "class": "devicon-firebase-plain colored",
+            "name": "firebase"
+          }
+        ]
+      },
+      {
+        "title": "code_breaking_differential_attacks",
+        "startDate": "2023",
+        "description": "Developed and build a project on python where me and my team worked on breaking the wll known encryption algorithms like play-fair, vigenere, RSA",
+        "images": [
+          "images/portfolio/differentialattacks/p1.png"
+        ],
+        "url": "https://github.com/himanshushukla12/code_breaking_differential_attacks.git",
+        "technologies": [
+          {
+            "class": "devicon-python-plain colored",
+            "name": "Python"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": " DUCAT Institute, Noida",
+        "title": "Android Developer Intern",
+        "years": "06/2022 – 08/2022",
         "mainTech": [
-          "Angular 8/9/10"
+          "Android Developer Intern"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Java",
+          "xML",
+          "firebase",
+          "FCM",
+          "NoSQL Real-Time Database",
+          "Stress Testing",
+          "Cloud Fire-store",
+          "API Integration"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "BITS Pilani",
+        "title": "Teaching Assistant",
+        "years": "08/2022 - 12/2023",
         "mainTech": [
-          "Angular 7/8"
+          "Position of responsibility"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Linux",
+          "C",
+          "Algorithms"
         ]
       }
     ]
