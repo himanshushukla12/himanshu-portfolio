@@ -12,6 +12,11 @@
           "name": "linkedIn",
           "url": "https://www.linkedin.com/in/himanshu-shukla-94505615a/",
           "class": "devicon-linkedin-plain"
+        },
+        {
+          "name": "gmail",
+          "url": "mailto:himanshushukla.shukla3@gmail.com",
+          "class": "devicon-google-plain"
         }
       ],
       "image": "profile.jpeg"
