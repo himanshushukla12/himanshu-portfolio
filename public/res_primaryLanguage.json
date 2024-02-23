@@ -15,8 +15,7 @@
         "startDate": "2023",
         "description": "This Node.js application automates responses to unread emails in a Gmail account. It's specifically designed to handle emails while you're away, responding only to those without previous replies.",
         "images": [
-          "images/portfolio/autoreplygmail/p1.png",
-          "images/portfolio/autoreplygmail/p2.png"
+          "images/portfolio/autoreplygmail/p1.png"
         ],
         "url": "https://github.com/himanshushukla12/gmailAutomation.git",
         "technologies": [
