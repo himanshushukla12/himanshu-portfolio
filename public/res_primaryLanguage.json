@@ -130,6 +130,22 @@
           "C",
           "Algorithms"
         ]
+      },
+      {
+        "company": "Siemens Technology and Services",
+        "title": "AI Intern",
+        "years": "01/2024 - Present",
+        "mainTech": [
+          "Artificial Intelligence"
+        ],
+        "technologies": [
+          "Machine Learning",
+          "Deep Learning",
+          "Natural Language Processing",
+          "Python",
+          "TensorFlow",
+          "PyTorch"
+        ]
       }
     ]
   }
